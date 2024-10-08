@@ -1,6 +1,6 @@
 # crypto_tracker
 
-A new Flutter project.
+<img src="assets/crypto_tracker.png" height="500em" />&nbsp;
 
 ## Getting Started
 
