@@ -1,6 +1,8 @@
 # crypto_tracker
 
 <img src="assets/crypto_tracker.png" height="500em" />&nbsp;
+<img src="assets/crypto_tracker_2.png" height="500em" />&nbsp;
+
 
 ## Getting Started
 
